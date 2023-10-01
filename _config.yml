@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subhadeep Pal | Northwestern University"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Subhadeep Pal"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Subhadeep Pal"
+  avatar           : "headshot.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chicago, IL"
   employer         :
