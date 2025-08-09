@@ -5,14 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-permalink: /publications/
-title: "Publications"
-layout: single
-author_profile: true
----
-
-## Peer-reviewed
+## Journal Publications [**Citations: 75, h-index: 6, i10-index: 3**]
 
 - **2025** — Xiao, R., **Pal, S.**, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M.  
   *Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.*  
