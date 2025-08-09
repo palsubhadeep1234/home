@@ -7,60 +7,73 @@ author_profile: true
 
 ## Journal Publications [**Citations: 75, h-index: 6, i10-index: 3**]
 
-- **2025** — Xiao, R., **Pal, S.**, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M.  
-  *Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.*  
-  **Physical Review Letters** 134(14), 148101. [doi:10.1103/PhysRevLett.134.148101](https://doi.org/10.1103/PhysRevLett.134.148101) *(Editor’s Suggestion)*
+- *Unraveling Nanoscale Mechanics of Multi-component Polymer-Grafted Nanoparticles.*  
+  **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S.  
+  *(In preparation).*
 
-- **2025** — Chen, T., Qian, Y., Laine, A., Kwon, J., Liu, L., **Pal, S.**, Gupta, S., Vargo, E., Su, G. M., Ritchie, R. O., Keten, S., Wang, R., Salmeron, M., & Xu, T.  
-  *Engineer Reversible Nanocomposite by Programming Amorphous Polymer Conformation Under Nanoconfinement.*  
-  **Advanced Materials** 2415352. [doi:10.1002/adma.202415352](https://doi.org/10.1002/adma.202415352)
+- *Molecular Investigation of Freshly-made Cement Paste Rheology for 3D-printing Application.*  
+  **Pal, S.**, Wu, Z., Joodaki, F., Cusatis, G., & Keten, S.  
+  *(In preparation).*
 
-- **2025** — Moussavi, A., Wu, Z., **Pal, S.**, & Keten, S.  
-  *Nanoconfinement Release Toughens Polymer-Grafted Nanoparticle Assemblies Through Better Interdigitation and Entanglements.*  
-  **ACS Nano Letters**. [doi:10.1021/acs.nanolett.5c00680](https://doi.org/10.1021/acs.nanolett.5c00680)
+- *Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.*  
+  Xiao, R., **Pal, S.**, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M.  
+  **Physical Review Letters**, 2025. DOI: [10.1103/PhysRevLett.134.148101](https://doi.org/10.1103/PhysRevLett.134.148101)
 
-- **2024** — Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K.  
-  *Network Topology and Percolation in Model Covalent Adaptable Networks.*  
-  **ACS Macro Letters** 13, 1545–1550. [doi:10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
+- *Engineer Reversible Nanocomposite by Programming Amorphous Polymer Conformation Under Nanoconfinement.*  
+  Chen, T., Qian, Y., Laine, A., Kwon, J., Liu, L., **Pal, S.**, Gupta, S., Vargo, E., Su, G. M., Ritchie, R. O., Keten, S., Wang, R., Salmeron, M., & Xu, T.  
+  **Advanced Materials**, 2025. DOI: [10.1002/adma.202415352](https://doi.org/10.1002/adma.202415352)
 
-- **2024** — **Pal, S.**, & Keten, S.  
-  *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.*  
-  **Soft Matter**. [doi:10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) *(Soft Matter Pioneering Investigators series)*
+- *Nanoconfinement Release Toughens Polymer-Grafted Nanoparticle Assemblies Through Better Interdigitation and Entanglements.*  
+  Moussavi, A., Wu, Z., **Pal, S.**, & Keten, S.  
+  **Nano Letters**, 2025. DOI: [10.1021/acs.nanolett.5c00680](https://doi.org/10.1021/acs.nanolett.5c00680)
 
-- **2024** — Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S.  
-  *(Title per CV)* **Journal of Chemical Physics** 160(13). [doi:10.1063/5.0188494](https://doi.org/10.1063/5.0188494)
+- *Network Topology and Percolation in Model Covalent Adaptable Networks.*  
+  Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K.  
+  **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
 
-- **2023** — **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S.  
-  *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.*  
-  **Macromolecules** 56(12), 4447–4456. [doi:10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
+- *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.*  
+  **Pal, S.**, & Keten, S.  
+  **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B)
 
-- **2023** — Dansuk, K. C., **Pal, S.**, & Keten, S.  
-  *A catch bond mechanism with looped adhesive tethers for self-strengthening materials.*  
-  **Nature Communications Materials** 4(1), 60. [doi:10.1038/s43246-023-00387-y](https://doi.org/10.1038/s43246-023-00387-y)
+- *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.*  
+  Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S.  
+  **Journal of Chemical Physics**, 2024. DOI: [10.1063/5.0188494](https://doi.org/10.1063/5.0188494)
 
-- **2023** — Wu, Z., **Pal, S.**, & Keten, S.  
-  *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.*  
-  **Macromolecules** 56(9), 3259–3271. [doi:10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272)
+- *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.*  
+  **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S.  
+  **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
 
-- **2021** — **Pal, S.**, & Mitra, N.  
-  *Shock wave propagation through air: a reactive molecular dynamics study.*  
-  **Proceedings of the Royal Society A** 477(2247), 20200676. [doi:10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
+- *A catch bond mechanism with looped adhesive tethers for self-strengthening materials.*  
+  Dansuk, K. C., **Pal, S.**, & Keten, S.  
+  **Communications Materials**, 2023. DOI: [10.1038/s43246-023-00387-y](https://doi.org/10.1038/s43246-023-00387-y)
 
-- **2020** — **Pal, S.**, Mitra, N., Sarkar, P. K., & Prasad, D.  
-  *Stretch-induced helix-to-coil transition of crystalline α-phase isotactic polypropylene: A molecular dynamics study.*  
-  **Polymer Crystallization** 3(4), e10143. [doi:10.1002/pcr2.10143](https://doi.org/10.1002/pcr2.10143)
+- *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.*  
+  Wu, Z., **Pal, S.**, & Keten, S.  
+  **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272)
 
-- **2020** — Karthika, P. S., Verma, A., & **Pal, S.**  
-  *Integration of image processing and crowd simulation for understanding crowd dynamics in Kumbh Mela.*  
-  **Transportation Research Procedia** 48, 2906–2915. [doi:10.1016/j.trpro.2020.08.229](https://doi.org/10.1016/j.trpro.2020.08.229)
+- *Shock wave propagation through air: a reactive molecular dynamics study.*  
+  **Pal, S.**, & Mitra, N.  
+  **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
+
+- *Stretch-induced helix-to-coil transition of crystalline α-phase isotactic polypropylene: A molecular dynamics study.*  
+  **Pal, S.**, Mitra, N., Sarkar, P. K., & Prasad, D.  
+  **Polymer Crystallization**, 2020. DOI: [10.1002/pcr2.10143](https://doi.org/10.1002/pcr2.10143)
+
+- *Integration of image processing and crowd simulation for understanding crowd dynamics in Kumbh Mela.*  
+  Karthika, P. S., Verma, A., & **Pal, S.**  
+  **Transportation Research Procedia**, 2020. DOI: [10.1016/j.trpro.2020.08.229](https://doi.org/10.1016/j.trpro.2020.08.229)
 
 ---
 
-## In preparation
+## Conference presentations
 
-- **2025** — **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S.  
-  *Unraveling Nanoscale Mechanics of Multi-component Polymer-Grafted Nanoparticles.* *(In preparation)*
-
-- **2025** — **Pal, S.**, Wu, Z., Joodaki, F., Cusatis, G., & Keten, S.  
-  *Molecular Investigation of Freshly-made Cement Paste Rheology for 3D-printing Application.* *(In preparation)*
-
+- **Society of Engineering Science (SES)** — Atlanta, GA — 2025  
+- **USNCCM18** — Chicago, IL — 2025  
+- **Engineering Mechanics Institute (EMI) Conference** — Anaheim, CA — 2025  
+- **APS March Meeting (Frank J. Padden, Jr. Award Symposium)** — Anaheim, CA — 2025  
+- **Ryan Fellows Meeting** — Evanston, IL — 2024  
+- **APS March Meeting** — Minneapolis, MN — 2024  
+- **SES Annual Technical Meeting** — Minneapolis, MN — 2023  
+- **CHiMaD Annual Meeting** — Chicago, IL — 2023  
+- **APS March Meeting** — Chicago, IL — 2022  
+- **APS March Meeting** — Denver, CO — 2020
