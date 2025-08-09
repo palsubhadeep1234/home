@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Subhadeep Pal"
-description              : &description "personal description"
-url                      : https://palsubhadeep1234.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "palsubhadeep1234/palsubhadeep1234.github.io"
+name                     : "Subhadeep Pal"
+description              : "Personal Website of Subhadeep Pal"
+url                      : https://palsubhadeep1234.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+repository               : "palsubhadeep1234/home" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
