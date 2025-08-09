@@ -29,10 +29,4 @@ I aim to turn molecular insight into predictive, decision-making tools for mater
 - **Mixed-hardener epoxies:** chemistry-specific CG-MD with continuum fracture models to quantify how hardener composition shifts yield and toughness.  
 - **Cement paste rheology (for 3D printing):** nanoscale PMF calculations informing meso-scale flow models and rate-dependent viscosity.
 
-### Contact & links
-- **Email:** subhadeeppal2024@u.northwestern.edu  
-- **Google Scholar:** https://scholar.google.com/citations?user=NVOvzyUAAAAJ&hl=en  
-- **GitHub:** https://github.com/palsubhadeep1234  
-- **LinkedIn:** https://www.linkedin.com/in/subhadeep-pal-20b926104/  
-- **CV:** /files/Subhadeep_Pal_CV.pdf
 
