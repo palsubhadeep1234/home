@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subhadeep Pal — Computational Materials & Mechanics"
+title                    : "About Me"
 title_separator          : "-"
 name                     : "Subhadeep Pal"
 description              : "PhD candidate at Northwestern; Polymer-Grafted Nanoparticles, Nanoscale Mechanics, Multiscale Modeling, Applied Machine Learning"
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
