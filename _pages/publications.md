@@ -17,7 +17,7 @@ author_profile: true
 
 - *Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.*  
   Xiao, R., **Pal, S.**, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M.  
-  **Physical Review Letters**, 2025. DOI: [10.1103/PhysRevLett.134.148101](https://doi.org/10.1103/PhysRevLett.134.148101)
+  **Physical Review Letters**, 2025. DOI: [10.1103/PhysRevLett.134.148101](https://doi.org/10.1103/PhysRevLett.134.148101) {:target="_blank" rel="noopener noreferrer"} [*Editor's Suggestions*]
 
 - *Engineer Reversible Nanocomposite by Programming Amorphous Polymer Conformation Under Nanoconfinement.*  
   Chen, T., Qian, Y., Laine, A., Kwon, J., Liu, L., **Pal, S.**, Gupta, S., Vargo, E., Su, G. M., Ritchie, R. O., Keten, S., Wang, R., Salmeron, M., & Xu, T.  
@@ -33,7 +33,7 @@ author_profile: true
 
 - *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.*  
   **Pal, S.**, & Keten, S.  
-  **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B)
+  **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
 
 - *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.*  
   Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S.  
@@ -68,7 +68,7 @@ author_profile: true
 ## Conference presentations
 
 - **Society of Engineering Science (SES)** — Atlanta, GA — 2025  
-- **USNCCM18** — Chicago, IL — 2025  
+- **US National Concress for Computation Mechanics 18 (USNCCM18)** — Chicago, IL — 2025  
 - **Engineering Mechanics Institute (EMI) Conference** — Anaheim, CA — 2025  
 - **APS March Meeting (Frank J. Padden, Jr. Award Symposium)** — Anaheim, CA — 2025  
 - **Ryan Fellows Meeting** — Evanston, IL — 2024  
