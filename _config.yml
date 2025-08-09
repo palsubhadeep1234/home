@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Subhadeep Pal — Computational Materials & Mechanics"
 title_separator          : "-"
 name                     : "Subhadeep Pal"
-description              : "Personal Website of Subhadeep Pal"
+description              : "PhD candidate at Northwestern; Polymer-Grafted Nanoparticles, Nanoscale Mechanics, Multiscale Modeling, Applied Machine Learning"
 url                      : https://palsubhadeep1234.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "palsubhadeep1234/home" 
