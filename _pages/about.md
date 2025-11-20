@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Subhadeep Pal"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I am **Subhadeep Pal**, a Ph.D. candidate in **Mechanics, Materials & Structures** at **Northwestern University**. I am supervised by Prof. Sinan Keten in the [Computational Nanodynamics Laboratory](https://keten-group.northwestern.edu/). Throughout my doctoral studies, I developed expertise in multi-scale modeling, computational mechanics, and advanced machine learning techniques, which I successfully applied to
+Hello! I am Subhadeep Pal, a Ph.D. candidate in Mechanics, Materials & Structures at Northwestern University. I am supervised by Prof. Sinan Keten in the [Computational Nanodynamics Laboratory](https://keten-group.northwestern.edu/). Throughout my doctoral studies, I developed expertise in multi-scale modeling, computational mechanics, and advanced machine learning techniques, which I successfully applied to
 polymer nanocomposites to explain stiffness enhancement and energy absorption pathways, self-healing thermosets to establish percolation thresholds, and cementitious materials to understand rheology, from a molecular point of view, unseen from experiments. My overarching goal is to become an expert computational engineer and bridge gaps between molecular physics and mesoscale failure phenomena broadly in soft materials.
 
 
