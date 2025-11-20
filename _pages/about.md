@@ -14,10 +14,6 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
 
 ## Education
 
-<!-- **Northwestern University, Evanston, IL**   style="float:right;"Sep 2020 – Dec 2025
-*PhD. in Mechanics, Materials, and Structures, Dept. of Civil & Environmental Engineering*  
-**Committee:** Sinan Keten (Chair), Wei Chen, Mitchell Wang   -->
-
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <strong>Northwestern University, Evanston, IL</strong>
   <span>Sep 2020 – Dec 2025</span>
@@ -25,13 +21,15 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
 
 *PhD in Mechanics, Materials, and Structures, Dept. of Civil & Environmental Engineering*  
 **Committee:** Sinan Keten (Chair), Wei Chen, Mitchell Wang  
+**Thesis:** Overcoming Strength-Toughness Trade-off in Polymer Nanocomposites through Active Learning-guided Molecular Simulations
 
 ---
 
-**Indian Institute of Technology, Kharagpur, India**  <span style="float:right;">Aug 2015 – May 2020  </span>
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <strong>Indian Institute of Technology, Kharagpur, India</strong>
+  <span>Aug 2015 – May 2020</span>
+</div>
 *B.Tech. and M.Tech. (Integrated) in Civil & Structural Engineering (Rank: 2/84)*  
-
-<!-- GPA: 9.22/10</span> -->
 
 ### Honors & Awards
 
