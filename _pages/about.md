@@ -39,43 +39,43 @@ Civil & Structural Engineering
 ## Honors & Awards
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Padden Award Symposium Finalist, Division of Polymer Physics, APS</strong>
+    Padden Award Symposium Finalist, Division of Polymer Physics, APS
     <span>2025</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Ryan Fellowship, International Institute of Nanotechnology</strong>
+    Ryan Fellowship, International Institute of Nanotechnology
     <span>2023–2025</span>
   </div>
 
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>NSF ACCESS Grant</strong>
+    NSF ACCESS Grant
     <span>2023–2025</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>NSF Student Travel Award, SES</strong>
+    NSF Student Travel Award, SES
     <span>2025</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Student Travel Award, USNCCM18</strong>
+    Student Travel Award, USNCCM18
     <span>2025</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Article on Spotlight, The Graduate School, Northwestern University</strong>
+    Article on Spotlight, The Graduate School, Northwestern University
     <span>2024</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Murphy Fellowship, The Graduate School, Northwestern University</strong>
+    Murphy Fellowship, The Graduate School, Northwestern University
     <span>2020–2021</span>
   </div>
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>UTSIP Scholarship, School of Frontier Science, University of Tokyo</strong>
+    UTSIP Scholarship, School of Frontier Science, University of Tokyo
     <span>2019</span>
   </div>
 
