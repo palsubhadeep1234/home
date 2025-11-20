@@ -19,7 +19,8 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
   <span>Sep 2020 – Dec 2025</span>
 </div>
 
-*PhD in Mechanics, Materials, and Structures, Dept. of Civil & Environmental Engineering*  
+PhD. in *Mechanics, Materials, and Structures* 
+Dept. of Civil & Environmental Engineering 
 **Committee:** Sinan Keten (Chair), Wei Chen, Mitchell Wang  
 **Thesis:** Overcoming Strength-Toughness Trade-off in Polymer Nanocomposites through Active Learning-guided Molecular Simulations
 
@@ -30,7 +31,8 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
   <span>Aug 2015 – May 2020</span>
 </div>
 
-*B.Tech. and M.Tech. (Integrated) in Civil & Structural Engineering (Rank: 2/84)*  
+*B.Tech.* and *M.Tech.* (Integrated)
+Civil & Structural Engineering 
 
 ## Honors & Awards
 
