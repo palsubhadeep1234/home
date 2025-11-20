@@ -31,7 +31,71 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
 </div>
 *B.Tech. and M.Tech. (Integrated) in Civil & Structural Engineering (Rank: 2/84)*  
 
-### Honors & Awards
+## Honors & Awards
+
+### Awards & Fellowships
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>Padden Award Symposium Finalist, Division of Polymer Physics (DPOLY)</strong>
+  <span>2025</span>
+</div>
+Chosen as a finalist to present research at the Frank J. Padden, Jr. Award Symposium (APS Global Physics Summit); only <strong>5–10 PhD students</strong> worldwide are selected.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>Ryan Fellowship, International Institute of Nanotechnology, Northwestern University</strong>
+  <span>2023–2025</span>
+</div>
+Awarded for excellence in research; selected as the <strong>1st recipient</strong> from the Department of CEE. Among only <strong>14 recipients</strong> across all PhD programs.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>NSF ACCESS Grant, Northwestern University</strong>
+  <span>2023–2025</span>
+</div>
+Secured <strong>400,000 compute hours</strong> to support research; served as Computational Investigator (CI) on the grant.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>NSF Student Travel Award, SES</strong>
+  <span>2025</span>
+</div>
+Received <strong>$800</strong> NSF Mechanics of Materials & Structures travel award; <strong>50 selected from 299 applicants</strong>.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>Student Travel Award, USNCCM18</strong>
+  <span>2025</span>
+</div>
+Received <strong>$430</strong> travel award to attend US National Congress on Computational Mechanics.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>Article on Spotlight, The Graduate School (TGS), Northwestern University</strong>
+  <span>2024</span>
+</div>
+Featured among Northwestern’s most distinguished <strong>~3,500 PhD students</strong>.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>Murphy Fellowship, The Graduate School, Northwestern University</strong>
+  <span>2020–2021</span>
+</div>
+Awarded prestigious graduate fellowship funding the first year of PhD study based on academic excellence.
+
+---
+
+<div style="display:flex; justify-content:space-between; width:100%;">
+  <strong>UTSIP Scholarship, School of Frontier Science, University of Tokyo</strong>
+  <span>2019</span>
+</div>
+Awarded research fellowship to join UTokyo; only <strong>15 students</strong> selected worldwide.
 
 ### Significant Publications
 
