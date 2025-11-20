@@ -20,6 +20,7 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
 </div>
 
 PhD. in *Mechanics, Materials, and Structures* 
+
 Dept. of Civil & Environmental Engineering 
 **Committee:** Sinan Keten (Chair), Wei Chen, Mitchell Wang  
 **Thesis:** Overcoming Strength-Toughness Trade-off in Polymer Nanocomposites through Active Learning-guided Molecular Simulations
@@ -32,60 +33,54 @@ Dept. of Civil & Environmental Engineering
 </div>
 
 *B.Tech.* and *M.Tech.* (Integrated)
+
 Civil & Structural Engineering 
 
 ## Honors & Awards
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Padden Award Symposium Finalist, Division of Polymer Physics (DPOLY)</strong>
+    <strong>Padden Award Symposium Finalist, Division of Polymer Physics, APS</strong>
     <span>2025</span>
   </div>
-  Chosen as one of only <strong>5–10 PhD students worldwide</strong> to present at the Frank J. Padden, Jr. Award Symposium (APS).
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Ryan Fellowship, International Institute of Nanotechnology, Northwestern University</strong>
+    <strong>Ryan Fellowship, International Institute of Nanotechnology</strong>
     <span>2023–2025</span>
   </div>
-  Awarded for research excellence; <strong>1st recipient</strong> from the CEE Department; among only <strong>14 fellows</strong> across all PhD programs.
+
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>NSF ACCESS Grant, Northwestern University</strong>
+    <strong>NSF ACCESS Grant</strong>
     <span>2023–2025</span>
   </div>
-  Secured <strong>400,000 compute hours</strong> and served as Computational Investigator (CI).
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
     <strong>NSF Student Travel Award, SES</strong>
     <span>2025</span>
   </div>
-  Received <strong>$800</strong> travel award; <strong>50 selected out of 299 applicants</strong>.
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
     <strong>Student Travel Award, USNCCM18</strong>
     <span>2025</span>
   </div>
-  Received <strong>$430</strong> travel award to attend USNCCM18.
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
-    <strong>Article on Spotlight, The Graduate School (TGS), Northwestern University</strong>
+    <strong>Article on Spotlight, The Graduate School, Northwestern University</strong>
     <span>2024</span>
   </div>
-  Featured among Northwestern’s distinguished <strong>~3,500 PhD students</strong>.
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
     <strong>Murphy Fellowship, The Graduate School, Northwestern University</strong>
     <span>2020–2021</span>
   </div>
-  Prestigious fellowship funding the 1st year of PhD study.
 
 - <div style="display:flex; justify-content:space-between; width:100%;">
     <strong>UTSIP Scholarship, School of Frontier Science, University of Tokyo</strong>
     <span>2019</span>
   </div>
-  Selected as one of only <strong>15 students worldwide</strong> in a highly competitive program.
 
 
-### Significant Publications
+## Significant Publications
 
 
 
