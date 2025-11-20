@@ -29,6 +29,7 @@ polymer nanocomposites to explain stiffness enhancement and energy absorption pa
   <strong>Indian Institute of Technology, Kharagpur, India</strong>
   <span>Aug 2015 – May 2020</span>
 </div>
+
 *B.Tech. and M.Tech. (Integrated) in Civil & Structural Engineering (Rank: 2/84)*  
 
 ## Honors & Awards
