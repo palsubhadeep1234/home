@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am **Subhadeep Pal**, a final-year Ph.D. candidate in **Mechanics, Materials & Structures** at **Northwestern University (Keten Lab)**. I build **multiscale, data-efficient modeling workflows** that link chemistry-specific **coarse-grained MD**, **Gaussian-process metamodels**, and **Bayesian optimization** to explain and design the mechanics of **polymer-grafted nanoparticles (PGNs)**, thermosets, and related soft composites. My work focuses on nanoscale failure mechanisms, the **strength–toughness trade-off**, and structure→property maps under uncertainty.
+Hello! I am **Subhadeep Pal**, a Ph.D. candidate in **Mechanics, Materials & Structures** at **Northwestern University**. I am supervised by Prof. Sinan Keten in the [Computational Nanodynamics Laboratory](https://keten-group.northwestern.edu/). Throughout my doctoral studies, I developed expertise in multi-scale modeling, computational mechanics, and advanced machine learning techniques, which I successfully applied to
+polymer nanocomposites to explain stiffness enhancement and energy absorption pathways, self-healing thermosets to establish percolation thresholds, and cementitious materials to understand rheology, from a molecular point of view, unseen from experiments. My overarching goal is to become an expert computational engineer and bridge gaps between molecular physics and mesoscale failure phenomena broadly in soft materials.
+
 
 ### Research vision
 I aim to turn molecular insight into predictive, decision-making tools for materials design. Current directions:
