@@ -7,7 +7,9 @@ author_profile: true
 
 ## Journal Publications [**Citations: 97, h-index: 7, i10-index: 3**]
 
-14. **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S., *From Packing to Performance: Decoding Nanoscale Mechanics of Binary Polymer-Grafted Nanoparticles via Active Learning.* **ACS Nano** *(In review)*
+15. **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S., *From Packing to Performance: Decoding Nanoscale Mechanics of Binary Polymer-Grafted Nanoparticles via Active Learning.* **ACS Nano** *(In review)*
+
+14. Singh, M., Lin, H., **Pal, S.**, Zhou, C., Maddukuri, S., Deen, P., Smith, Z., Keten, S., Kysar, J., Benicewicz, B., & Kumar, S. K., *Process-Driven Control of the Properties of Polymer Grafted Nanoparticle Composites.* *(In preparation)*
 
 13. **Pal, S.**, Wu, Z., Joodaki, F., Cusatis, G., & Keten, S., *Molecular Investigation of Freshly-made Cement Paste Rheology for 3D-printing Application.*  *(In preparation).*
 
