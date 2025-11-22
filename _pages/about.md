@@ -83,8 +83,12 @@ Civil & Structural Engineering <br>
 
 - **Pal, S.**, & Keten, S., *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.* **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
 
+- Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K., *Network Topology and Percolation in Model Covalent Adaptable Networks.* **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
+
+- Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S. *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.* **Journal of Chemical Physics**, 2024. DOI: [10.1063/5.0188494](https://doi.org/10.1063/5.0188494)
+
 - **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
 
+- Wu, Z., **Pal, S.**, & Keten, S., *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272)
+
 - **Pal, S.**, & Mitra, N., *Shock wave propagation through air: a reactive molecular dynamics study.* **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
-
-
