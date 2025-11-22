@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications [**Citations: 75, h-index: 6, i10-index: 3**]
+## Journal Publications [**Citations: 97, h-index: 7, i10-index: 3**]
 
 14. **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S., *From Packing to Performance: Decoding Nanoscale Mechanics of Binary Polymer-Grafted Nanoparticles via Active Learning.* **ACS Nano** *(In review)*
 
