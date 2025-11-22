@@ -81,16 +81,10 @@ Civil & Structural Engineering <br>
 ## Significant Publications
 **Citations: 97, h-index: 7, i10-index: 3**
 
-- *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.*  
-  **Pal, S.**, & Keten, S.  
-  **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
+- **Pal, S.**, & Keten, S., *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.* **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
 
-- *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.*  
-  **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S.  
-  **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
+- **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
 
-- *Shock wave propagation through air: a reactive molecular dynamics study.*  
-  **Pal, S.**, & Mitra, N.  
-  **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
+- **Pal, S.**, & Mitra, N., *Shock wave propagation through air: a reactive molecular dynamics study.* **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
 
 
