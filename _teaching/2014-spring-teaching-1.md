@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant & Grader — Finite Element Methods in Mechanics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/finite-element-methods
+venue: "Northwestern University, Dept. of Civil & Environmental Engineering"
+date: 2022-09-01
+location: "Evanston, IL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Served as Teaching Assistant and Grader for the graduate-level course *Finite Element Methods in Mechanics* (Fall 2022). Coordinated work among teaching assistants, evaluated assignments, and guided 36 students during office hours.

@@ -71,7 +71,7 @@ social:
   links: 
       - "https://scholar.google.com/citations?user=NVOvzyUAAAAJ&hl=en"
       - "https://github.com/palsubhadeep1234"
-      - "https://www.linkedin.com/in/subhadeep-pal-20b926104/" # An array of links to social media profiles
+      - "https://www.linkedin.com/in/palsubhadeep/" # An array of links to social media profiles
 
 
 # Analytics
@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "Subhadeep Pal"
   avatar           : "headshot.jpeg"
-  bio              : "PhD Candidate, Northwestern University"
-  location         : "Chicago, IL"
+  bio              : "PostDoc, MIT | PhD Northwestern University"
+  location         : "Cambridge, MA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NVOvzyUAAAAJ&hl=en"
-  email            : "subhadeeppal2024@u.northwestern.edu"
+  email            : "spu8516@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "subhadeep-pal-20b926104/"
+  linkedin         : "palsubhadeep/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

@@ -9,8 +9,21 @@ redirect_from:
 ---
 ## About Me
 
-Hello! I am Subhadeep Pal, a Ph.D. candidate in Mechanics, Materials & Structures at Northwestern University. I am supervised by Prof. Sinan Keten in the [Computational Nanodynamics Laboratory](https://keten-group.northwestern.edu/). Throughout my doctoral studies, I developed expertise in **multi-scale modeling**, **computational mechanics**, **polymer physics** and **advanced machine learning techniques**, which I successfully applied to
-polymer nanocomposites to explain stiffness enhancement and energy absorption pathways, self-healing thermosets to establish percolation thresholds, and cementitious materials to understand rheology, from a molecular point of view, unseen from experiments. My overarching goal is to become an expert computational engineer and bridge gaps between molecular physics and mesoscale failure phenomena broadly in soft materials.
+Hello! I am Subhadeep Pal, a Postdoctoral Associate at the [Massachusetts Institute of Technology](https://www.mit.edu/) in the Department of Civil & Environmental Engineering, working in the [Laboratory for Atomistic and Molecular Mechanics (LAMM)](https://lamm.mit.edu/?q=research) advised by Prof. [Markus Buehler](https://www.mbuehler.com/). I completed my Ph.D. in Mechanics, Materials & Structures at Northwestern University under Prof. Sinan Keten in the [Computational Nanodynamics Laboratory](https://keten-group.northwestern.edu/).
+
+My research spans **multi-scale modeling**, **computational mechanics**, **polymer physics**, and **AI/data-driven materials design**. During my PhD, I applied these tools to polymer nanocomposites (stiffness and impact resistance), self-healing thermosets (percolation), and cementitious materials (rheology). At MIT, I am working at the intersection of **large language models** and scientific discovery — fine-tuning open-weight LLMs for structured scientific reasoning and building decentralized multi-agent frameworks for autonomous materials design. My overarching goal is to bridge molecular physics and mesoscale phenomena in soft materials, accelerated by AI.
+
+## Employment
+
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <strong>Massachusetts Institute of Technology, Cambridge, MA</strong>
+  <span>Jan 2026 – Present</span>
+</div>
+
+*Postdoctoral Associate*, Dept. of Civil & Environmental Engineering <br>
+**Advisor:** Markus Buehler
+
+---
 
 ## Education
 
@@ -79,16 +92,18 @@ Civil & Structural Engineering <br>
 
 
 ## Significant Publications
-**Citations: 97, h-index: 7, i10-index: 3**
+**Citations: 127, h-index: 7, i10-index: 7**
 
-- **Pal, S.**, & Keten, S., *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.* **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
+#### Recent Preprint
+- Wang, F. Y., Marom, L., **Pal, S.**, Luu, R. K., Lu, W., Berkovich, J. A., & Buehler, M. J., *Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange.* **arXiv**, 2026. DOI: [10.48550/arXiv.2603.14312](https://arxiv.org/abs/2603.14312)
 
-- Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K., *Network Topology and Percolation in Model Covalent Adaptable Networks.* **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
+#### Top Cited (Google Scholar)
+- **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577) [**33 citations**]
 
-- Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S. *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.* **Journal of Chemical Physics**, 2024. DOI: [10.1063/5.0188494](https://doi.org/10.1063/5.0188494)
+- Wu, Z., **Pal, S.**, & Keten, S., *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272) [**18 citations**]
 
-- **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
+- Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S., *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.* **Journal of Chemical Physics**, 2024. DOI: [10.1063/5.0188494](https://doi.org/10.1063/5.0188494) [**15 citations**]
 
-- Wu, Z., **Pal, S.**, & Keten, S., *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272)
+- Dansuk, K. C., **Pal, S.**, & Keten, S., *A Catch Bond Mechanism with Looped Adhesive Tethers for Self-Strengthening Materials.* **Nature Communications Materials**, 2023. DOI: [10.1038/s43246-023-00387-y](https://doi.org/10.1038/s43246-023-00387-y) [**12 citations**]
 
-- **Pal, S.**, & Mitra, N., *Shock wave propagation through air: a reactive molecular dynamics study.* **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
+- Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K., *Network Topology and Percolation in Model Covalent Adaptable Networks.* **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523) [**10 citations**]

@@ -5,49 +5,103 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications [**Citations: 97, h-index: 7, i10-index: 3**]
+## Journal Publications [**Citations: 127, h-index: 7, i10-index: 7**]
 
-15. **Pal, S.**, Khumbhojkar, G., Chen, W., & Keten, S., *From Packing to Performance: Decoding Nanoscale Mechanics of Binary Polymer-Grafted Nanoparticles via Active Learning.* **ACS Nano** *(In review)*
+<ol reversed>
 
-14. Singh, M., Lin, H., **Pal, S.**, Zhou, C., Maddukuri, S., Deen, P., Smith, Z., Keten, S., Kysar, J., Benicewicz, B., & Kumar, S. K., *Process-Driven Control of the Properties of Polymer Grafted Nanoparticle Composites.* *(In preparation)*
+<li>Wang, F. Y., Marom, L., <strong>Pal, S.</strong>, Luu, R. K., Lu, W., Berkovich, J. A., & Buehler, M. J., <em>Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange.</em> <strong>arXiv preprint</strong>, 2026. <a href="https://arxiv.org/abs/2603.14312">[Link]</a></li>
 
-13. **Pal, S.**, Wu, Z., Joodaki, F., Cusatis, G., & Keten, S., *Molecular Investigation of Freshly-made Cement Paste Rheology for 3D-printing Application.*  *(In preparation).*
+<li>Singh, M., Lin, H., <strong>Pal, S.</strong>, Zhou, C., Mohammed, M., Maddukuri, S., Deen, P., Yin, R., Bockstaller, M., Matyjaszewski, K., Smith, Z., Karim, A., Kysar, J., Keten, S., Benicewicz, B., & Kumar, S. K., <em>Process-Driven Control of the Properties of Polymer Grafted Nanoparticle Composites.</em> <strong>ACS Nano</strong> <em>(In press)</em></li>
 
-12. Xiao, R., **Pal, S.**, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M., *Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.* **Physical Review Letters**, 2025. DOI: [10.1103/PhysRevLett.134.148101](https://doi.org/10.1103/PhysRevLett.134.148101) [*Editor's Suggestion*]
+<li><strong>Pal, S.</strong>, Wu, Z., Joodaki, F., Cusatis, G., & Keten, S., <em>Molecular Investigation of Freshly-made Cement Paste Rheology for 3D-printing Application.</em> <strong>Journal of Physical Chemistry</strong> <em>(In review)</em></li>
 
-11. Chen, T., Qian, Y., Laine, A., Kwon, J., Liu, L., **Pal, S.**, Gupta, S., Vargo, E., Su, G. M., Ritchie, R. O., Keten, S., Wang, R., Salmeron, M., & Xu, T., *Engineer Reversible Nanocomposite by Programming Amorphous Polymer Conformation Under Nanoconfinement.* **Advanced Materials**, 2025. DOI: [10.1002/adma.202415352](https://doi.org/10.1002/adma.202415352)
+<li><strong>Pal, S.</strong>, Khumbhojkar, G., Chen, W., & Keten, S., <em>From Packing to Performance: Decoding Nanoscale Mechanics of Binary Polymer-Grafted Nanoparticles via Active Learning.</em> <strong>Macromolecules</strong> <em>(In press)</em></li>
 
-10. Moussavi, A., Wu, Z., **Pal, S.**, & Keten, S., *Nanoconfinement Release Toughens Polymer-Grafted Nanoparticle Assemblies Through Better Interdigitation and Entanglements.* **Nano Letters**, 2025. DOI: [https://doi.org/10.1021/acs.nanolett.5c00680](https://doi.org/10.1021/acs.nanolett.5c00680)
+<li>Xiao, R., <strong>Pal, S.</strong>, Rademacher, C., Chen, J., Wang, Q., Chen, W., Keten, S., Shull, K. R., & Wang, M., <em>Real-Time Visualization of Polymer Single Chain Conformational Change in Bulk State Using Super-Resolution Microscopy.</em> <strong>Physical Review Letters</strong>, 2025. <a href="https://doi.org/10.1103/PhysRevLett.134.148101">[Link]</a> [<em>Editor's Suggestion</em>]</li>
 
-9. Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K., *Network Topology and Percolation in Model Covalent Adaptable Networks.* **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
+<li>Chen, T., Qian, Y., Laine, A., Kwon, J., Liu, L., <strong>Pal, S.</strong>, Gupta, S., Vargo, E., Su, G. M., Ritchie, R. O., Keten, S., Wang, R., Salmeron, M., & Xu, T., <em>Engineer Reversible Nanocomposite by Programming Amorphous Polymer Conformation Under Nanoconfinement.</em> <strong>Advanced Materials</strong>, 2025. <a href="https://doi.org/10.1002/adma.202415352">[Link]</a></li>
 
-8. **Pal, S.**, & Keten, S., *Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.* **Soft Matter**, 2024. DOI: [10.1039/D4SM00718B](https://doi.org/10.1039/D4SM00718B) [*Soft Matter Pioneering Investigators series*]
+<li>Moussavi, A., Wu, Z., <strong>Pal, S.</strong>, & Keten, S., <em>Nanoconfinement Release Toughens Polymer-Grafted Nanoparticle Assemblies Through Better Interdigitation and Entanglements.</em> <strong>Nano Letters</strong>, 2025. <a href="https://doi.org/10.1021/acs.nanolett.5c00680">[Link]</a></li>
 
-7. Moussavi, A., **Pal, S.**, Wu, Z., & Keten, S., *Characterizing the Shear Response of Polymer-Grafted Nanoparticles.* **Journal of Chemical Physics**, 2024. DOI: [10.1063/5.0188494](https://doi.org/10.1063/5.0188494)
+<li>Hafner, B., <strong>Pal, S.</strong>, Lewis, B., Keten, S., & Shull, K., <em>Network Topology and Percolation in Model Covalent Adaptable Networks.</em> <strong>ACS Macro Letters</strong>, 2024. <a href="https://doi.org/10.1021/acsmacrolett.4c00523">[Link]</a></li>
 
-6. **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
+<li><strong>Pal, S.</strong>, & Keten, S., <em>Micro-Ballistic Response of Thin Polymer-Grafted Nanoparticle Films.</em> <strong>Soft Matter</strong>, 2024. <a href="https://doi.org/10.1039/D4SM00718B">[Link]</a> [<em>Soft Matter Pioneering Investigators series</em>]</li>
 
-5. Dansuk, K. C., **Pal, S.**, & Keten, S., *A Catch Bond Mechanism with Looped Adhesive Tethers for Self-Strengthening Materials.* **Nature Communications Materials**, 2023. DOI: [10.1038/s43246-023-00387-y](https://doi.org/10.1038/s43246-023-00387-y)
+<li>Moussavi, A., <strong>Pal, S.</strong>, Wu, Z., & Keten, S., <em>Characterizing the Shear Response of Polymer-Grafted Nanoparticles.</em> <strong>Journal of Chemical Physics</strong>, 2024. <a href="https://doi.org/10.1063/5.0188494">[Link]</a></li>
 
-4. Wu, Z., **Pal, S.**, & Keten, S., *Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02272](https://doi.org/10.1021/acs.macromol.2c02272)
+<li><strong>Pal, S.</strong>, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., <em>Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.</em> <strong>Macromolecules</strong>, 2023. <a href="https://doi.org/10.1021/acs.macromol.2c02577">[Link]</a></li>
 
-3. **Pal, S.**, & Mitra, N., *Shock Wave Propagation Through Air: A Reactive Molecular Dynamics Study.* **Proceedings of the Royal Society A**, 2021. DOI: [10.1098/rspa.2020.0676](https://doi.org/10.1098/rspa.2020.0676)
+<li>Dansuk, K. C., <strong>Pal, S.</strong>, & Keten, S., <em>A Catch Bond Mechanism with Looped Adhesive Tethers for Self-Strengthening Materials.</em> <strong>Nature Communications Materials</strong>, 2023. <a href="https://doi.org/10.1038/s43246-023-00387-y">[Link]</a></li>
 
-2. **Pal, S.**, Mitra, N., Sarkar, P. K., & Prasad, D., *Stretch-Induced Helix-to-Coil Transition of Crystalline α-Phase Isotactic Polypropylene: A Molecular Dynamics Study.* **Polymer Crystallization**, 2020. DOI: [10.1002/pcr2.10143](https://doi.org/10.1002/pcr2.10143)
+<li>Wu, Z., <strong>Pal, S.</strong>, & Keten, S., <em>Implicit Chain Particle Model for Polymer-Grafted Nanoparticles.</em> <strong>Macromolecules</strong>, 2023. <a href="https://doi.org/10.1021/acs.macromol.2c02272">[Link]</a></li>
 
-1. Karthika, P. S., Verma, A., & **Pal, S.**, *Integration of Image Processing and Crowd Simulation for Understanding Crowd Dynamics in Kumbh Mela.* **Transportation Research Procedia**, 2020. DOI: [10.1016/j.trpro.2020.08.229](https://doi.org/10.1016/j.trpro.2020.08.229)
+<li><strong>Pal, S.</strong>, & Mitra, N., <em>Shock Wave Propagation Through Air: A Reactive Molecular Dynamics Study.</em> <strong>Proceedings of the Royal Society A</strong>, 2021. <a href="https://doi.org/10.1098/rspa.2020.0676">[Link]</a></li>
+
+<li><strong>Pal, S.</strong>, Mitra, N., Sarkar, P. K., & Prasad, D., <em>Stretch-Induced Helix-to-Coil Transition of Crystalline α-Phase Isotactic Polypropylene: A Molecular Dynamics Study.</em> <strong>Polymer Crystallization</strong>, 2020. <a href="https://doi.org/10.1002/pcr2.10143">[Link]</a></li>
+
+<li>Karthika, P. S., Verma, A., & <strong>Pal, S.</strong>, <em>Integration of Image Processing and Crowd Simulation for Understanding Crowd Dynamics in Kumbh Mela.</em> <strong>Transportation Research Procedia</strong>, 2020. <a href="https://doi.org/10.1016/j.trpro.2020.08.229">[Link]</a></li>
+
+</ol>
 
 
 
-## Conference presentations
+## Conference Presentations
 
-- **Society of Engineering Science (SES)** — Atlanta, GA — 2025  
-- **US National Concress for Computation Mechanics 18 (USNCCM18)** — Chicago, IL — 2025  
-- **Engineering Mechanics Institute (EMI) Conference** — Anaheim, CA — 2025  
-- **APS March Meeting (Frank J. Padden, Jr. Award Symposium)** — Anaheim, CA — 2025  
-- **Ryan Fellows Meeting** — Evanston, IL — 2024  
-- **APS March Meeting** — Minneapolis, MN — 2024  
-- **SES Annual Technical Meeting** — Minneapolis, MN — 2023  
-- **CHiMaD Annual Meeting** — Chicago, IL — 2023  
-- **APS March Meeting** — Chicago, IL — 2022  
-- **APS March Meeting** — Denver, CO — 2020
+<div style="margin-top: 0.5rem;">
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>20th U.S. National Congress on Theoretical and Applied Mechanics, Pasadena, CA</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2026</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>Society of Engineering Science (SES), Atlanta, GA</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2025</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>U.S. National Congress on Computational Mechanics 18 (USNCCM18), Chicago, IL</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2025</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>Engineering Mechanics Institute (EMI) Conference, Anaheim, CA</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2025</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>Frank J. Padden, Jr. Award Symposium, APS March Meeting, Anaheim, CA</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2025</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>Ryan Fellows Meeting, Evanston, IL</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2024</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>APS March Meeting, Minneapolis, MN</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2024</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>SES Annual Technical Meeting, Minneapolis, MN</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2023</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>CHiMaD Annual Meeting, Chicago, IL</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2023</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0; border-bottom: 1px solid #f0f0f0;">
+  <span>APS March Meeting, Chicago, IL</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2022</span>
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:baseline; padding: 0.3rem 0;">
+  <span>APS March Meeting, Denver, CO</span>
+  <span style="color:#6b7280; font-size:0.9rem; white-space:nowrap; margin-left:1rem;">2020</span>
+</div>
+
+</div>
