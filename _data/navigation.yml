@@ -1,17 +1,13 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Research Projects"
+  - title: Home
+    url: /
+  - title: Research
     url: /projects/
-
-  - title: "Teaching"
+  - title: Publications
+    url: /publications/
+  - title: Teaching & Mentoring
     url: /teaching/
-
-  - title: "LinkedIn Posts"
-    url: /linkedin/
-
-  - title: "CV"
-    url: /files/Subhadeep_CV.pdf
-    newtab: true
+  - title: CV
+    url: /cv/
+  - title: Contact
+    url: /contact/

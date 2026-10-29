@@ -1,44 +1,27 @@
 ---
+layout: faculty
+title: "Polymer Networks & Reduced Dynamics"
 permalink: /projects/crosslinked-networks/
-title: "Crosslinked & Adaptive Polymer Networks"
-layout: single
-author_profile: true
+section: Research
 ---
 
-<a href="/home/projects/" class="back-link">← Back to Research Projects</a>
+<a class="back-link" href="{{ "/projects/" | relative_url }}">← All research</a>
 
-Crosslinked polymer networks underpin thermosets, elastomers, and self-healing materials. My work in this area spans brittle-to-tough epoxy design, bio-inspired catch-bond adhesion, and recyclable covalent adaptable networks — combining coarse-grained molecular simulation with continuum fracture mechanics and graph-theoretic network analysis to extract design principles that are difficult or impossible to access experimentally.
 
----
-
-### 8. Predicting Fracture Properties of Mixed-Hardener Epoxies
-*Advisors/Collaborators: Dr. Sinan Keten; Dr. Timothy Sirk (ARL); Dr. Kerim Dansuk (Boğaziçi University); Dr. Andrea Giuntoli (University of Groningen)* · **2022 – 2023**
-
-- Used a **chemistry-specific** coarse-grained model to study how **mixed hardeners** tune epoxy **failure mechanisms** and the strength–toughness trade-off.
-- Estimated **fracture toughness** via a continuum fracture model informed by simulations that captured experimental trends.
-- Found **intermediate-length** Jeffamine chains **enhance toughness** while maintaining modulus, yielding a **predictive framework** for less-brittle epoxy design.
-
-**Related publication:**
-- **Pal, S.**, Dansuk, K. C., Giuntoli, A., Sirk, T., & Keten, S., *Predictive Molecular Modeling of Hardener Composition Effects on Epoxy Resin Fracture Properties.* **Macromolecules**, 2023. DOI: [10.1021/acs.macromol.2c02577](https://doi.org/10.1021/acs.macromol.2c02577)
-
----
-
-### 9. Catch-Bond Mechanism with Looped Adhesive Tethers
-*Advisors/Collaborators: Dr. Sinan Keten; Dr. Kerim Dansuk (Boğaziçi University)* · **2021 – 2023**
-
-- Designed a **molecular NP system** that mimics **catch-bond** behavior using looped and straight tethers for load sharing under force; simulations showed a **force-enhanced lifetime** curve.
-- Derived an **analytical relation** (validated by molecular and Monte-Carlo simulations) to tune loop/adhesion interactions, enabling **customizable** catch-bond lifetimes for self-strengthening materials.
-
-**Related publication:**
-- Dansuk, K. C., **Pal, S.**, & Keten, S., *A Catch Bond Mechanism with Looped Adhesive Tethers for Self-Strengthening Materials.* **Nature Communications Materials**, 2023. DOI: [10.1038/s43246-023-00387-y](https://doi.org/10.1038/s43246-023-00387-y)
-
----
-
-### 10. Network Topology & Percolation in Covalent Adaptable Networks
-*Advisors/Collaborators: Dr. Sinan Keten; Benjamin Hafner; Dr. Kenneth Shull* · **2023 – 2024**
-
-- Developed coarse-grained models of **recyclable, disulfide-based** epoxies (LAMMPS + in-house MATLAB) to complement experimental network-analysis.
-- Explored a large design space to locate the **percolation threshold**, finding strong agreement with **Flory's mean-field theory**.
-
-**Related publication:**
-- Hafner, B., **Pal, S.**, Lewis, B., Keten, S., & Shull, K., *Network Topology and Percolation in Model Covalent Adaptable Networks.* **ACS Macro Letters**, 2024. DOI: [10.1021/acsmacrolett.4c00523](https://doi.org/10.1021/acsmacrolett.4c00523)
+<p class="lede">Connecting chemistry and molecular connectivity to deformation, fracture, and the design of adaptable materials.</p>
+## The scientific question
+How do molecular connections determine the way a polymer network carries load and fails? I study the relationships between hardener chemistry, network topology, and mechanical response, with an emphasis on interpretable models.
+## Research foundations
+### Predictive fracture modeling of epoxies
+I used chemistry-specific coarse-grained models to investigate mixed-hardener epoxy networks. Molecular quantities were transferred to continuum fracture-energy estimates, capturing experimental trends and identifying formulations that balance stiffness and toughness.
+[Epoxy fracture properties · Macromolecules, 2023](https://doi.org/10.1021/acs.macromol.2c02577)
+### Topology and reprocessability
+In work on disulfide-based covalent adaptable networks, I developed molecular models and analyzed connectivity after virtual cleavage of dynamic bonds. The simulations expanded the composition space accessible to experiments and tested a mean-field percolation boundary relevant to reprocessability.
+[Network topology and percolation · ACS Macro Letters, 2024](https://doi.org/10.1021/acsmacrolett.4c00523)
+### Bio-inspired adhesion
+I investigated looped and straight adhesive tethers that redistribute load and produce catch-bond behavior. Analytical relations, molecular simulations, and Monte Carlo calculations connected tether architecture to force-dependent bond lifetime.
+[Catch-bond mechanisms · Communications Materials, 2023](https://doi.org/10.1038/s43246-023-00387-y)
+## Future direction: learn reduced network dynamics
+I plan to represent crosslinks and molecular strands as chemically informed graphs, identify the features that govern deformation and damage, and learn a reduced description of network evolution. The objective is to screen formulations and curing conditions without running a full molecular simulation for every candidate.
+<figure class="detail-figure"><img src="{{ '/images/research/network-dynamics.png' | relative_url }}" alt="Molecular networks represented as graphs, reduced to a few coordinates, and linked to mechanical predictions"><figcaption>Proposed research: reduce evolving network descriptions while retaining the physics needed to predict deformation and damage. The schematic illustrates the planned methodology.</figcaption></figure>
+Independent molecular simulations and collaborative experiments will assess predictions on formulations and loading histories excluded from training. Longer-term extensions include reprocessable composite matrices, stress-relaxing adhesives, elastomers, and gels.

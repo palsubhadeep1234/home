@@ -1,50 +1,17 @@
 ---
+layout: faculty
+title: "Research"
 permalink: /projects/
-title: "Research Projects"
-layout: single
-author_profile: true
 ---
 
-<div class="project-grid">
 
-  <a href="/home/projects/ai-discovery/" class="project-card">
-    <div class="project-card__icon">🤖</div>
-    <h3 class="project-card__title">AI & Data-Driven Scientific Discovery</h3>
-    <p class="project-card__desc">Large language models, reinforcement learning, and autonomous multi-agent systems for open-ended materials discovery.</p>
-    <div class="project-card__footer">
-      <span class="project-card__count">2 projects</span>
-      <span class="project-card__cta">View Projects →</span>
-    </div>
-  </a>
-
-  <a href="/home/projects/pgn/" class="project-card">
-    <div class="project-card__icon">🔬</div>
-    <h3 class="project-card__title">Polymer-Grafted Nanoparticles</h3>
-    <p class="project-card__desc">Ballistic response, shear mechanics, binary architectures, coarse-grained modeling, and nanocomposite design of PGN systems.</p>
-    <div class="project-card__footer">
-      <span class="project-card__count">5 projects</span>
-      <span class="project-card__cta">View Projects →</span>
-    </div>
-  </a>
-
-  <a href="/home/projects/crosslinked-networks/" class="project-card">
-    <div class="project-card__icon">🧬</div>
-    <h3 class="project-card__title">Crosslinked & Adaptive Polymer Networks</h3>
-    <p class="project-card__desc">Epoxy fracture, bio-inspired catch-bond adhesion, and recyclable covalent adaptable networks via molecular simulation.</p>
-    <div class="project-card__footer">
-      <span class="project-card__count">3 projects</span>
-      <span class="project-card__cta">View Projects →</span>
-    </div>
-  </a>
-
-  <a href="/home/projects/multiscale/" class="project-card">
-    <div class="project-card__icon">⚙️</div>
-    <h3 class="project-card__title">Multiscale Computational Mechanics</h3>
-    <p class="project-card__desc">Bridging nanoscale to microscale via FEM, PMF calculations, and strain-field mapping in close collaboration with experimental groups.</p>
-    <div class="project-card__footer">
-      <span class="project-card__count">2 projects</span>
-      <span class="project-card__cta">View Projects →</span>
-    </div>
-  </a>
-
-</div>
+<p class="lede">My research asks how molecular architecture, interfaces, and imperfections govern material performance—and how we can use that knowledge to design better materials.</p>
+<p>I combine molecular simulations, physics-preserving models, active learning, and scientific AI. My long-term vision is a human-supervised materials laboratory that connects mechanistic understanding to experimentally tested designs, with evidence and uncertainty attached to each recommendation.</p>
+<div class="jump-links"><a href="#impact">Fracture & impact</a><a href="#networks">Polymer networks</a><a href="#ai">Traceable AI</a><a href="{{ '/projects/multiscale/' | relative_url }}">Multiscale foundations</a></div>
+<figure class="research-strip"><img src="{{ '/images/research/research-overview.png' | relative_url }}" width="1588" height="510" alt="Research overview linking molecular mechanisms, physics-informed scale transfer, and AI-guided discovery"><figcaption>Research foundations: identify molecular mechanisms, transfer their physics across scales, and connect computational design to scientific reasoning. Figures from my research statement.</figcaption></figure>
+<h2>Future research directions</h2><p>Three complementary thrusts build on my completed and ongoing work. The directions below describe the research program I aim to establish.</p>
+<section class="research-feature" id="impact"><div><span class="label">01 / Defect engineering</span><h2>Lightweight impact protection</h2><p class="research-question">When do imperfections dissipate energy, and when do they trigger failure?</p><p>I plan to map defect geometry and distribution to mechanical response, transfer fracture mechanisms from molecular to structural scales, and optimize protective architectures under weight and transmitted-force constraints.</p><a href="{{ '/projects/pgn/' | relative_url }}">Foundations & future direction →</a></div><figure><img src="{{ '/images/research/defect-engineering.png' | relative_url }}" alt="Proposed workflow transferring defect physics from molecular simulations to continuum models and design optimization" loading="lazy"><figcaption>Proposed multiscale workflow for defect-informed impact protection.</figcaption></figure></section>
+<section class="research-feature" id="networks"><div><span class="label">02 / Reduced network dynamics</span><h2>Predictive polymer-network design</h2><p class="research-question">Can network connectivity reveal how a polymer will deform and fail?</p><p>I plan to connect chemistry and curing to graph representations of polymer networks, learn reduced dynamics, and use those models to identify realizable formulations with targeted mechanical properties.</p><a href="{{ '/projects/crosslinked-networks/' | relative_url }}">Foundations & future direction →</a></div><figure><img src="{{ '/images/research/network-dynamics.png' | relative_url }}" alt="Proposed network reduction from molecular configurations to graph coordinates and predictions of mechanical response" loading="lazy"><figcaption>Proposed reduced dynamics connecting network architecture to mechanical response.</figcaption></figure></section>
+<section class="research-feature" id="ai"><div><span class="label">03 / Traceable scientific AI</span><h2>Evidence-grounded materials discovery</h2><p class="research-question">Can scientific AI explain what supports a design—and what still needs testing?</p><p>I plan to link competing hypotheses to supporting and opposing evidence, coordinate adaptive research agents, and preserve reproducible records of simulations, assumptions, and hypothesis revisions under human supervision.</p><a href="{{ '/projects/ai-discovery/' | relative_url }}">Current work & future direction →</a></div><figure><img src="{{ '/images/research/traceable-ai.png' | relative_url }}" alt="Proposed human-supervised system linking hypotheses, a planner, research agents, a skill library, and evidence synthesis" loading="lazy"><figcaption>Proposed human-supervised framework for traceable investigations.</figcaption></figure></section>
+<section class="section"><h2>A foundation across scales</h2><p>My earlier work connects molecular interactions to epoxy fracture, nanoparticle mechanics, cement rheology, and experimentally observed polymer-chain deformation. These collaborations ground my future program in physical models and experimental comparison.</p><a href="{{ '/projects/multiscale/' | relative_url }}">Explore multiscale modeling & experimental collaborations →</a></section>
+<section class="callout"><h3>Research resources</h3><p>Explore <a href="https://github.com/palsubhadeep1234">my public GitHub repositories</a> and <a href="{{ '/publications/' | relative_url }}">papers and preprints</a> for available research outputs. For questions about a particular model or workflow, <a href="{{ '/contact/' | relative_url }}">contact me</a>.</p></section>

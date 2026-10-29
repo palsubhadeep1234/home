@@ -1,0 +1,6 @@
+<ol class="pub-list">{% for pub in site.data.publications %}{% if pub.group == include.group %}
+<li id="{{ pub.id }}"><h3>{% if pub.url != '' %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h3>
+<p class="authors">{{ pub.authors | escape | replace: 'Pal, S.', '<strong>Pal, S.</strong>' }}</p>
+<p><em>{{ pub.venue }}</em> · {{ pub.year }}{% if pub.note != '' %}<span class="badge">{{ pub.note }}</span>{% endif %}</p>
+{% if pub.url != '' %}<a class="publication-link" href="{{ pub.url }}">{% if pub.url contains 'arxiv' %}Read preprint{% else %}Read article{% endif %} ↗</a>{% endif %}</li>
+{% endif %}{% endfor %}</ol>
