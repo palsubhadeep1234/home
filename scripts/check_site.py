@@ -5,15 +5,19 @@ from urllib.parse import urlsplit, unquote
 import sys,json
 root=Path(sys.argv[1]);errors=[];count=0
 class Page(HTMLParser):
- def __init__(self):super().__init__();self.refs=[];self.ids=set();self.h1=0;self.canonical=None
+ def __init__(self):super().__init__();self.refs=[];self.ids=set();self.h1=0;self.canonical=None;self.list_depth=0
  def handle_starttag(self,tag,attrs):
   a=dict(attrs)
   if a.get('id'):self.ids.add(a['id'])
+  if tag in ('ul','ol'):self.list_depth+=1
+  if tag in ('h2','h3','figure') and self.list_depth and '/projects/' in file.as_posix():errors.append(f'{file}: {tag} incorrectly nested in a list')
   if tag=='h1':self.h1+=1
   if tag=='img' and 'alt' not in a:errors.append(f'{file}: image lacks alt')
   for attr in ['href','src']:
    if attr in a:self.refs.append(a[attr])
   if tag=='link' and a.get('rel')=='canonical':self.canonical=a.get('href')
+ def handle_endtag(self,tag):
+  if tag in ('ul','ol'):self.list_depth-=1
 pages={}
 for file in root.rglob('*.html'):
  p=Page();text=file.read_text();p.feed(text);pages[file]=p
