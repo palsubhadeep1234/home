@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Subhadeep Pal"
 title_separator          : "-"
 name                     : "Subhadeep Pal"
-description              : "PhD candidate at Northwestern; Polymer-Grafted Nanoparticles, Nanoscale Mechanics, Multiscale Modeling, Applied Machine Learning"
-url                      : https://palsubhadeep1234.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Subhadeep Pal, MIT Postdoctoral Associate. Multiscale fracture mechanics, polymer networks, and traceable AI for materials design."
+url                      : https://palsubhadeep1234.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "palsubhadeep1234/home" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Subhadeep Pal"
   avatar           : "headshot.jpeg"
-  bio              : "PostDoc, MIT | PhD Northwestern University"
+  bio              : "Postdoctoral Associate, MIT | PhD, Northwestern"
   location         : "Cambridge, MA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -126,6 +126,14 @@ include:
   - _pages
   - files
 exclude:
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - CONTRIBUTING.md
+  - scripts
+  - docs
+  - vendor
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

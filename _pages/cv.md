@@ -1,109 +1,17 @@
 ---
-layout: archive
-title: "CV"
+layout: faculty
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-## Employment
-
-**Massachusetts Institute of Technology**, Cambridge, MA — *Jan 2026 – Present*  
-Postdoctoral Associate, Dept. of Civil & Environmental Engineering  
-Advisor: Markus Buehler
-
----
-
-## Education
-
-**Northwestern University**, Evanston, IL — *Sep 2020 – Dec 2025*  
-PhD in Mechanics, Materials, and Structures, Dept. of Civil & Environmental Engineering — GPA: 3.93/4  
-Committee: Sinan Keten (Chair), Wei Chen, Mitchell Wang
-
-**Indian Institute of Technology, Kharagpur**, India — *Aug 2015 – May 2020*  
-BTech and MTech (integrated) in Civil & Structural Engineering — Rank: 2/84 — GPA: 9.22/10
-
----
-
-## Research Interests
-
-Computational soft materials; Polymer physics; Extreme Mechanics; Polymer-grafted nanoparticles; Crosslinked polymer networks; Coarse-graining strategies; Multiscale modeling; Molecular simulations; Mechanics of soft matter; AI- & data-driven materials design; Large Language Models; Cementitious Materials; Finite Element Analysis.
-
----
-
-## Honors & Awards
-
-- **Padden Award Symposium Finalist**, Division of Polymer Physics (DPOLY), APS — *2025*  
-  Chosen as a finalist to present at the Frank J. Padden, Jr. Award Symposium at the APS Global Physics Summit; awarded to only 5–10 PhD students globally.
-
-- **Ryan Fellowship**, International Institute of Nanotechnology, NU — *2023–2025*  
-  1st recipient from the Dept. of CEE; awarded to only 14 recipients across all PhD programs.
-
-- **NSF ACCESS Grant**, NU — *2023–2025*  
-  Secured 400,000 compute hours; wrote the grant and served as Computational Investigator (CI).
-
-- **NSF Student Travel Award**, Society of Engineering Science — *2025*  
-  $800 award from NSF MOMS program; 50 selected out of 299 applicants.
-
-- **Student Travel Award**, USNCCM18 — *2025*  
-  $430 award to attend 18th US National Congress on Computational Mechanics.
-
-- **Article on Spotlight**, The Graduate School, NU — *2024*  
-  Featured among Northwestern's most distinguished ~3,500 PhD students.
-
-- **Murphy Fellowship**, The Graduate School, NU — *2020–2021*  
-  Prestigious fellowship funding the 1st year of PhD study based on academic merit.
-
-- **UTSIP Scholarship**, The Graduate School of Frontier Science, University of Tokyo — *2019*  
-  One of 15 individuals chosen from a global pool of applicants.
-
----
-
-## Publications [Citations: 127, h-index: 7, i10-index: 7]
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
----
-
-## Talks
-
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
----
-
-## Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
----
-
-## Official Reviewer
-
-Nature Chemistry · International Journal of Impact Engineering · Journal of Chemical Physics · Soft Matter · Nanoscale Advances · Journal of Physical Chemistry · npj Computational Materials · Journal of the Mechanical Behavior of Biomedical Materials
-
----
-
-## Leadership
-
-**Treasurer & Event Organizer**, Graduate International Student Organization, NU — *2021–Present*
-- Organize events for international graduate students; manage finances and annual budgets.
-- Secured $16,000 in funding from the Office of Student Life.
-
-**Event Organizer**, Bengalis in Chicago, UIC — *2021–Present*
-- Organize cultural events (e.g., Durga Puja) for Bengalis in the Greater Chicago area; 500+ attendees.
-
----
-
-## Skills
-
-**Technical:** Python, BASH, LAMMPS, ABAQUS, Ovito, MATLAB, VMD, Git, C, Materials Studio, AutoCAD  
-**Languages:** English (full proficiency), Hindi (conversational), Bengali (native)
+<p class="lede">Subhadeep Pal · Mechanics, materials, and scientific AI</p>
+<p class="muted">Updated October 2026</p>
+<div class="actions"><a class="button primary" href="{{ '/files/Subhadeep_CV.pdf' | relative_url }}">Download public CV (PDF)</a><a class="button" href="{{ '/publications/' | relative_url }}">Full publication list</a></div>
+<div class="jump-links" style="margin-top:28px"><a href="#appointments">Appointments</a><a href="#education">Education</a><a href="#honors">Honors</a><a href="#teaching">Teaching & mentoring</a><a href="#service">Service & leadership</a></div>
+<section class="cv-section" id="appointments"><h2>Academic appointments</h2><div class="cv-entry"><div><h3>Massachusetts Institute of Technology</h3><p>Postdoctoral Associate, Civil & Environmental Engineering<br>Laboratory for Atomistic and Molecular Mechanics<br>Advisor: Markus Buehler</p></div><time>Jan 2026–present</time></div></section>
+<section class="cv-section" id="education"><h2>Education</h2><div class="cv-entry"><div><h3>Northwestern University</h3><p>PhD, Mechanics, Materials, and Structures<br>Civil & Environmental Engineering<br>Advisor: Sinan Keten</p></div><time>2020–2025</time></div><div class="cv-entry"><div><h3>Indian Institute of Technology Kharagpur</h3><p>Integrated BTech and MTech, Civil & Structural Engineering</p></div><time>2015–2020</time></div></section>
+<section class="cv-section"><h2>Research</h2><p>Multiscale fracture mechanics; polymer nanocomposites and networks; molecular simulation; active learning and inverse design; traceable scientific AI.</p><p><a href="{{ '/projects/' | relative_url }}">Research program</a> · <a href="{{ '/publications/' | relative_url }}">Publications and preprints</a> · <a href="{{ '/talks/' | relative_url }}">Conference presentations</a></p></section>
+<section class="cv-section" id="honors"><h2>Selected honors & research support</h2><ul><li><strong>2025</strong> — Padden Award Symposium Finalist, APS Division of Polymer Physics</li><li><strong>2023–2025</strong> — Ryan Fellowship, International Institute of Nanotechnology, Northwestern</li><li><strong>2023–2025</strong> — NSF ACCESS computational allocation; 400,000 compute hours; proposal author and Computational Investigator</li><li><strong>2025</strong> — NSF Student Travel Award, Society of Engineering Science</li><li><strong>2025</strong> — Student Travel Award, USNCCM18</li><li><strong>2024</strong> — Graduate School Spotlight, Northwestern</li><li><strong>2020–2021</strong> — Murphy Fellowship, Northwestern</li><li><strong>2019</strong> — UTSIP Scholarship, University of Tokyo</li></ul></section>
+<section class="cv-section" id="teaching"><h2>Teaching & research mentoring</h2><ul><li><strong>Fall 2026 · MIT:</strong> Teaching Assistant, Atomistic Modeling and Simulation</li><li><strong>Fall 2022 · Northwestern:</strong> Teaching Assistant, Finite Element Methods in Mechanics</li><li><strong>Fall 2021 · Northwestern:</strong> Grader, Structural Analysis — Dynamics</li></ul><p>Research mentoring across graduate, undergraduate, and high-school levels at MIT, and doctoral research mentoring at Northwestern.</p><a href="{{ '/teaching/' | relative_url }}">Teaching responsibilities & mentoring experience →</a></section>
+<section class="cv-section" id="service"><h2>Service & leadership</h2><h3>ScienceClaw Hackathon · MIT · 2026</h3><p>Co-organized a research hackathon bringing together 100 academic and industry participants. Helped secure $200,000 in sponsorship, with support from the E14 Seed Fund and industry partners.</p><h3>Graduate International Student Association · Northwestern · 2021–2025</h3><p>Treasurer and event organizer; managed budgets and secured $16,000 in event funding from the Office of Student Life.</p><h3>Bengalis in Chicago · UIC · 2021–2024</h3><p>Event organizer; coordinated volunteers and logistics for cultural events serving more than 500 attendees.</p><h3>Peer review</h3><p>Nature Chemistry; International Journal of Impact Engineering; Journal of Chemical Physics; Soft Matter; Nanoscale Advances; Journal of Physical Chemistry; npj Computational Materials; Journal of the Mechanical Behavior of Biomedical Materials; Journal of Chemical Information and Modeling.</p></section>

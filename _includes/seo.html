@@ -15,7 +15,7 @@
 {% endif %}
 
 {% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
+  {% assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 {% endif %}
 
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
@@ -64,7 +64,7 @@
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if site.og_image %}
-      <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+      <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
     {% endif %}
   {% endif %}
 
@@ -105,9 +105,9 @@
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
-      "@type": "Organization",
+      "@type": "Person",
       "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+      "logo": {{ site.og_image | absolute_url | jsonify }}
     }
   </script>
 {% endif %}

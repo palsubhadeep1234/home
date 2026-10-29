@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: faculty
 title: "LinkedIn Posts"
 permalink: /linkedin/
 author_profile: true
@@ -136,7 +136,7 @@ Congratulated by NU Civil & Environmental Engineering on receiving the Ryan Fell
 ### New Paper: Catch Bond Mechanism with Looped Adhesive Tethers
 *July 2023 · [View on LinkedIn](https://www.linkedin.com/posts/palsubhadeep_a-catch-bond-mechanism-with-looped-adhesive-activity-7101737599802757120-5ELF){:target="_blank"}*
 
-Published in **Nature Communications Materials** — introducing a molecular design that replicates catch bond behavior: bonds that strengthen under force, as observed in biological systems. The two-tether looped design enables sequential-to-coordinated failure transitions, with applications in tunable, self-strengthening materials.
+Published in **Communications Materials** — introducing a molecular design that replicates catch bond behavior: bonds that strengthen under force, as observed in biological systems. The two-tether looped design enables sequential-to-coordinated failure transitions, with applications in tunable, self-strengthening materials.
 
 [Read the full post →](https://www.linkedin.com/posts/palsubhadeep_a-catch-bond-mechanism-with-looped-adhesive-activity-7101737599802757120-5ELF){:target="_blank"}
 

@@ -1,4 +1,5 @@
 ---
+layout: faculty
 title: "Teaching Assistant & Grader — Finite Element Methods in Mechanics"
 collection: teaching
 type: "Graduate course"
@@ -9,3 +10,5 @@ location: "Evanston, IL"
 ---
 
 Served as Teaching Assistant and Grader for the graduate-level course *Finite Element Methods in Mechanics* (Fall 2022). Coordinated work among teaching assistants, evaluated assignments, and guided 36 students during office hours.
+
+[Teaching & Mentoring]({{ "/teaching/" | relative_url }})

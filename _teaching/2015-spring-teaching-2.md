@@ -1,4 +1,5 @@
 ---
+layout: faculty
 title: "Grader — Structural Analysis: Dynamics"
 collection: teaching
 type: "Graduate course"
@@ -9,3 +10,5 @@ location: "Evanston, IL"
 ---
 
 Served as Grader for the graduate-level course *Structural Analysis — Dynamics* (Fall 2021). Assessed assignments, graded final examinations, and advised students on their final course projects.
+
+[Teaching & Mentoring]({{ "/teaching/" | relative_url }})
