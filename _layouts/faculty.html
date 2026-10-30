@@ -25,6 +25,7 @@
 </div></header>
 <main id="main" class="site-main {% if page.home %}home{% else %}interior{% endif %}">
 {% unless page.home %}<header class="page-heading"><p class="eyebrow">Subhadeep Pal / {{ page.section | default: page.title }}</p><h1>{{ page.title }}</h1>{% if page.intro %}<p class="lede">{{ page.intro }}</p>{% endif %}</header>{% endunless %}
+{% if page.research_stage %}{% include research-navigation.html %}{% endif %}
 {{ content }}
 </main>
 <footer class="site-footer"><div><a class="footer-name" href="{{ '/' | relative_url }}">Subhadeep Pal</a><p>Postdoctoral Associate · MIT<br>Cambridge, Massachusetts</p></div><div class="footer-links"><a href="mailto:spu8516@mit.edu">Email</a><a href="https://scholar.google.com/citations?user=NVOvzyUAAAAJ&amp;hl=en">Google Scholar</a><a href="https://github.com/palsubhadeep1234">GitHub</a><a href="https://www.linkedin.com/in/palsubhadeep/">LinkedIn</a></div><p class="footer-note">© {{ site.time | date: '%Y' }} Subhadeep Pal · <a href="{{ '/sitemap/' | relative_url }}">Sitemap</a></p></footer>

@@ -1,8 +1,10 @@
 main:
   - title: Home
     url: /
-  - title: Research
+  - title: Current Research
     url: /projects/
+  - title: Future Research
+    url: /future-research/
   - title: Publications
     url: /publications/
   - title: Teaching & Mentoring

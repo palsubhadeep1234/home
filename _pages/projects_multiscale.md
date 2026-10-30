@@ -2,10 +2,11 @@
 layout: faculty
 title: "Multiscale Modeling & Experimental Connections"
 permalink: /projects/multiscale/
-section: Research
+section: Current Research
+research_stage: current
 ---
 
-<a class="back-link" href="{{ "/projects/" | relative_url }}">← All research</a>
+<a class="back-link" href="{{ "/projects/" | relative_url }}">← Current research</a>
 
 
 <p class="lede">Transferring molecular mechanisms into efficient models that can explain and predict larger-scale behavior.</p>
@@ -40,8 +41,4 @@ I developed finite-element indentation models to interpret super-resolution obse
 
 [Single-chain imaging · Physical Review Letters, 2025 · Editor’s Suggestion](https://doi.org/10.1103/PhysRevLett.134.148101)
 
-## Connection to my future program
-
-These studies provide the foundation for transferring defect-controlled fracture across scales, reducing network dynamics, and grounding scientific AI in tested physics. The shared aim is to make predictions efficient without losing their physical meaning or range of validity.
-
-[Explore the three future research thrusts →]({{ '/projects/' | relative_url }})
+<section class="callout"><h2>Where this leads</h2><p>These mappings provide a foundation for <a href="{{ '/future-research/#impact' | relative_url }}">defect-controlled fracture across scales</a> and <a href="{{ '/future-research/#networks' | relative_url }}">reduced polymer-network dynamics</a>. Both thrusts will retain explicit physical meaning and independently assessed ranges of validity.</p><a href="{{ '/future-research/' | relative_url }}">Explore the future research plan →</a></section>

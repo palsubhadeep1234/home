@@ -2,10 +2,11 @@
 layout: faculty
 title: "Traceable AI for Materials Discovery"
 permalink: /projects/ai-discovery/
-section: Research
+section: Current Research
+research_stage: current
 ---
 
-<a class="back-link" href="{{ "/projects/" | relative_url }}">← All research</a>
+<a class="back-link" href="{{ "/projects/" | relative_url }}">← Current research</a>
 
 
 <p class="lede">Connecting scientific questions to evidence, computational tests, and reproducible materials recommendations.</p>
@@ -39,14 +40,4 @@ In collaboration with Saint-Gobain, I co-developed a hierarchical multi-agent ap
 
 My ongoing work also connects literature-derived knowledge graphs with multi-agent reasoning for 3D-printed cementitious materials, linking rheology, microstructure, and printability to testable hypotheses and experimental investigation.
 
-## Future direction: evidence-linked, human-supervised discovery
-
-I aim to develop a framework that preserves supporting and opposing evidence, proposes tests that distinguish competing explanations, and coordinates agents as findings emerge. New procedures would be tested and reviewed before reuse; model-applicability limits and physical constraints would remain explicit.
-
-<figure class="detail-figure"><img src="{{ '/images/research/traceable-ai.png' | relative_url }}" alt="Human-supervised planning and research agents linked to an evidence graph, materials database, skills, and physics models"><figcaption>Proposed research: adaptive investigation with linked evidence, hypothesis revision, reproducible computational steps, and human oversight.</figcaption></figure>
-
-The long-term goal is a materials laboratory that connects literature, multiscale simulations, and experiments while reporting uncertainty and unresolved questions alongside its recommendations.
-
-## Papers and resources
-
-Browse the linked papers and preprints above, or visit [my GitHub profile](https://github.com/palsubhadeep1234) for public repositories.
+<section class="callout"><h2>Where this leads</h2><p>My proposed scientific-AI program connects these capabilities through evidence-linked hypotheses, adaptive investigation, and human oversight.</p><a href="{{ '/future-research/#ai' | relative_url }}">Explore the connected future research thrust →</a></section>

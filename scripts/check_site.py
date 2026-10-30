@@ -10,7 +10,7 @@ class Page(HTMLParser):
   a=dict(attrs)
   if a.get('id'):self.ids.add(a['id'])
   if tag in ('ul','ol'):self.list_depth+=1
-  if tag in ('h2','h3','figure') and self.list_depth and '/projects/' in file.as_posix():errors.append(f'{file}: {tag} incorrectly nested in a list')
+  if tag in ('h2','h3','figure') and self.list_depth and any(part in file.as_posix() for part in ('/projects/', '/future-research/')):errors.append(f'{file}: {tag} incorrectly nested in a list')
   if tag=='h1':self.h1+=1
   if tag=='img' and 'alt' not in a:errors.append(f'{file}: image lacks alt')
   for attr in ['href','src']:

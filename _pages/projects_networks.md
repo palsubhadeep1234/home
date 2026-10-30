@@ -2,10 +2,11 @@
 layout: faculty
 title: "Polymer Networks & Reduced Dynamics"
 permalink: /projects/crosslinked-networks/
-section: Research
+section: Current Research
+research_stage: current
 ---
 
-<a class="back-link" href="{{ "/projects/" | relative_url }}">← All research</a>
+<a class="back-link" href="{{ "/projects/" | relative_url }}">← Current research</a>
 
 
 <p class="lede">Connecting chemistry and molecular connectivity to deformation, fracture, and the design of adaptable materials.</p>
@@ -34,10 +35,4 @@ I investigated looped and straight adhesive tethers that redistribute load and p
 
 [Catch-bond mechanisms · Communications Materials, 2023](https://doi.org/10.1038/s43246-023-00387-y)
 
-## Future direction: learn reduced network dynamics
-
-I plan to represent crosslinks and molecular strands as chemically informed graphs, identify the features that govern deformation and damage, and learn a reduced description of network evolution. The objective is to screen formulations and curing conditions without running a full molecular simulation for every candidate.
-
-<figure class="detail-figure"><img src="{{ '/images/research/network-dynamics.png' | relative_url }}" alt="Molecular networks represented as graphs, reduced to a few coordinates, and linked to mechanical predictions"><figcaption>Proposed research: reduce evolving network descriptions while retaining the physics needed to predict deformation and damage. The schematic illustrates the planned methodology.</figcaption></figure>
-
-Independent molecular simulations and collaborative experiments will assess predictions on formulations and loading histories excluded from training. Longer-term extensions include reprocessable composite matrices, stress-relaxing adhesives, elastomers, and gels.
+<section class="callout"><h2>Where this leads</h2><p>My proposed network-dynamics program extends these studies toward interpretable reduced models and rapid inverse design.</p><a href="{{ '/future-research/#networks' | relative_url }}">Explore the connected future research thrust →</a></section>

@@ -1,0 +1,4 @@
+<nav class="research-tabs" aria-label="Research pages">
+<a href="{{ '/projects/' | relative_url }}"{% if page.research_stage == 'current' %} aria-current="{% if page.url == '/projects/' %}page{% else %}true{% endif %}"{% endif %}><span>01 / Research foundations</span>Current Research</a>
+<a href="{{ '/future-research/' | relative_url }}"{% if page.research_stage == 'future' %} aria-current="page"{% endif %}><span>02 / The next questions</span>Future Research</a>
+</nav>
